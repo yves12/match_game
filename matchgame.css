@@ -1,0 +1,126 @@
+  #inazuma1{
+   height : 100px;
+   width: 100px;
+    }
+     
+ #onepunch1{
+   height : 100px;
+   width: 100px;
+    position : absolute;
+    left : 120px;
+     } 
+  #inazuma2{
+   height : 100px;
+   width: 100px;
+    position : absolute;
+    left : 340px;
+     }   
+  #onepunch2{
+   height : 100px;
+   width: 100px;
+    position : absolute;
+    top : 120px; 
+    left : 10px;
+    }
+    #op1{
+      height : 100px;
+   width: 100px;
+    position : absolute;
+    top : 230px; 
+    left : 10px;
+    }
+    #op2{
+     height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 340px; 
+    left : 340px;  
+        }
+     #thug1{
+     height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 340px; 
+    left : 10px;  
+        }
+    #thug2{
+     height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 120px; 
+    left : 120px;  
+        }
+     #gf1{
+     height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 10px; 
+    left : 230px;  
+        }
+        #gf2{
+    height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 340px; 
+    left : 120px;    
+            }
+    #amazing2{
+    height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 340px; 
+    left : 230px;    
+            }
+         #amazing1{
+    height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 120px; 
+    left : 340px;    
+            } 
+        #sports2{
+    height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 120px; 
+    left : 230px;    
+            }  
+        #sports1{
+    height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 230px; 
+    left : 120px;    
+            } 
+      #destiny2{
+    height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 230px; 
+    left : 230px;    
+            } 
+                      
+         #destiny1 {
+    height : 100px;
+    width: 100px;
+    position : absolute;
+    top : 230px; 
+    left : 340px;    
+           
+            }           
+   #question{
+      height : 100px; 
+      width : 100px;
+   }
+
+body{
+    background-image:url("http://media.tumblr.com/tumblr_lgotggqM441qerqcg.jpg");
+}
+
+     
+        
+        
+        
+    
+    
+    
